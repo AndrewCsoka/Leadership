@@ -1,6 +1,6 @@
 # Leadership
 
-## Disorganised braindump of ideas
+## Disorganised braindump of my beliefs
 
 - trust is the most important thing. Communication the differentiator between success and failure, but its only enabled when trust is high.
 - avoid DMs where possible. communicate in the open so others can gain context, learn and see the thought process.
