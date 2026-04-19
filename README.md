@@ -9,6 +9,7 @@
   - After something has gone wrong, I fix the process, not blame the person. In my experience it's almost always miscommunication, unclear asks, or pressure rather than anything more sinister, and those are solvable problems
   - If your idea comes up in a conversation you're not in, I'll credit you by name
   - When I'm wrong or I've changed my mind, I'll say so openly because if you never see me be wrong, you won't believe it's safe for you to be wrong
+- Tell me the truth. If there are delays, blockers, problems. If I'm asking too much. If something isn't possible. If something isn't sensible. If my idea can be improved upon.
 
 
 ## How I think teams work best
@@ -17,7 +18,6 @@
 
 ## Disorganised braindump of my beliefs
 
-- tell me the truth - if there are delays, blockers, problems. If i'm asking too much. If something isn't possible. If something isn't sensible. If my idea can be improved upon.
 - i believe in the [agile principles](https://agilemanifesto.org/principles.html). "Agile", Scrum and everything else is just an implementation of these principles, and similar to encryption, the implementation may have flaws while the underpinning theory holds (although some principles need updating in the face of agentic coding...)
 
 ## Report writing
