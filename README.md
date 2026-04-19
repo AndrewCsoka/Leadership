@@ -1,15 +1,15 @@
 # Leadership
 
-## Slightly better written but still disorganised braindump
+## Slightly better written but still disorganised braindump "How I build trust"
 - I'm a contractor and I know that can create the impression I'll play it safe to protect my position. I won't. I'd rather lose a contract for giving honest advice than keep one by telling people what they want to hear
 - People only communicate honestly when they feel safe and honest communication is what makes teams succeed. Creating that safety is the most important part of my job. In practice that means:
   - I praise publicly and critique privately
   - I'll defend your decisions to stakeholders even when I'd have made a different choice
-  - When something goes wrong my first question is "what do we need to do?" not "how did this happen?"
-  - After something had gone wrong, I fix the process, not blame the person. In my experience it's almost always miscommunication, unclear asks, or pressure rather than anything more sinister, and those are solvable problems
+  - When something has gone wrong my first question is "what do we need to do?" not "how did this happen?"
+  - After something has gone wrong, I fix the process, not blame the person. In my experience it's almost always miscommunication, unclear asks, or pressure rather than anything more sinister, and those are solvable problems
   - If your idea comes up in a conversation you're not in, I'll credit you by name
   - When I'm wrong or I've changed my mind, I'll say so openly because if you never see me be wrong, you won't believe it's safe for you to be wrong
-- Avoid Private or Direct messages where possible. Communicate in the open so others can gain context, learn and see the thought process (unless its personal, sensitive, or would put someone on the spot)
+- I avoid Private or Direct messages where possible. Communicate in the open so others can gain context, learn and see the thought process (unless its personal, sensitive, or would put someone on the spot)
 
 ## Disorganised braindump of my beliefs
 
