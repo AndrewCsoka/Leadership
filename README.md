@@ -1,6 +1,7 @@
 # Leadership
 
 ## Slightly better written but still disorganised braindump
+- I'm a contractor and I know that can create the impression I'll play it safe to protect my position. I won't. I'd rather lose a contract for giving honest advice than keep one by telling people what they want to hear
 - People only communicate honestly when they feel safe and honest communication is what makes teams succeed. Creating that safety is the most important part of my job. In practice that means:
   - I praise publicly and critique privately
   - I'll defend your decisions to stakeholders even when I'd have made a different choice
@@ -11,8 +12,6 @@
 
 ## Disorganised braindump of my beliefs
 
-- im a contractor and i know that can create the impression i'll play it safe to protect my position. I won't. id rather lose a contract for giving honest advice than keep one by telling people what they want to hear
-- trust is the most important thing. Communication the differentiator between success and failure, but its only enabled when trust is high.
 - avoid DMs where possible. communicate in the open so others can gain context, learn and see the thought process.
 - shift left isn't just for devsecops etc. Demos at the end of a ticket must not be the first time we see things. have interim demos when a ticket is taking longer than 5 days. Have story kickoffs after an engineer has had time to understand the implementation steps, so the team can feedback. refine tickets as a team before they enter the To Do column so everyone agrees the ask is clear
 - tell me the truth - if there are delays, blockers, problems. If i'm asking too much. If something isn't possible. If something isn't sensible. If my idea can be improved upon.
