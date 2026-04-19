@@ -1,6 +1,6 @@
 # Leadership
 
-## Slightly better written but still disorganised braindump "How I build trust"
+## How I build trust
 - I'm a contractor and I know that can create the impression I'll play it safe to protect my position. I won't. I'd rather lose a contract for giving honest advice than keep one by telling people what they want to hear
 - People only communicate honestly when they feel safe and honest communication is what makes teams succeed. Creating that safety is the most important part of my job. In practice that means:
   - I praise publicly and critique privately
@@ -9,7 +9,10 @@
   - After something has gone wrong, I fix the process, not blame the person. In my experience it's almost always miscommunication, unclear asks, or pressure rather than anything more sinister, and those are solvable problems
   - If your idea comes up in a conversation you're not in, I'll credit you by name
   - When I'm wrong or I've changed my mind, I'll say so openly because if you never see me be wrong, you won't believe it's safe for you to be wrong
-- I avoid Private or Direct messages where possible. Communicate in the open so others can gain context, learn and see the thought process (unless its personal, sensitive, or would put someone on the spot)
+
+
+## How I think teams work best
+- I advocate for communicating in the open rather than via Private or Direct messages where possible. When conversations happen in shared channels everyone can gain context, learn and see the thought process. The exception is anything personal, sensitive, or that would put someone on the spot
 
 ## Disorganised braindump of my beliefs
 
