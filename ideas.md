@@ -3,4 +3,4 @@
 thoughts that don't yet have a home
 
 - every identified action should have an owner. bias towards action and progress
-- in the age of AI its very cheap to produce seemingly plausible content. its still as expensive as ever for human review. I need to trust that content has been created with intention and thought. whether its been assisted by AI in any way is immaterial to me. I need to know you've put the same amount as you always would have into its ideation.
+- AI has made it cheap to produce plausible content but the cost of human review hasn't changed. Start with your own thinking. Use AI to challenge and refine it, not to generate the first draft. If the first draft came from AI then the thinking hasn't happened yet, it's being deferred to whoever reviews it. I expect you to put the same amount of effort into thought as ever. Whether you used AI is immaterial to me.
