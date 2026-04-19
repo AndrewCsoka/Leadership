@@ -2,6 +2,7 @@
 
 ## Disorganised braindump of my beliefs
 
+- im a contractor and i know that can create the impression i'll play it safe to protect my position. I won't. id rather lose a contract for giving honest advice than keep one by telling people what they want to hear
 - trust is the most important thing. Communication the differentiator between success and failure, but its only enabled when trust is high.
 - avoid DMs where possible. communicate in the open so others can gain context, learn and see the thought process.
 - shift left isn't just for devsecops etc. Demos at the end of a ticket must not be the first time we see things. have interim demos when a ticket is taking longer than 5 days. Have story kickoffs after an engineer has had time to understand the implementation steps, so the team can feedback. refine tickets as a team before they enter the To Do column so everyone agrees the ask is clear
