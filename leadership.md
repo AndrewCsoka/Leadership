@@ -1,7 +1,7 @@
 # Leadership
 
 ## How I build trust
-- **I'm a contractor and I know that can create the impression I'll play it safe to protect my position. I won't.** I'd rather lose a contract for giving honest advice than keep one by telling people what they want to hear
+- **As a contractor, my job is to deliver real value, not protect my seat.** I give honest advice because that's what actually delivers results, even when it means pushing back on what people want to hear
 - **People only communicate honestly when they feel safe and honest communication is what makes teams succeed.** Creating that safety is the most important part of my job. In practice that means:
   - I praise publicly and critique privately
   - I'll defend your decisions to stakeholders even when I'd have made a different choice
